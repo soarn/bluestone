@@ -327,7 +327,7 @@ public class Bot extends ListenerAdapter implements ClassUtilities {
                     .add(listening("the poor electrons"))
                     .add(listening("the poor neutrons"))
                     .add(listening("trigger-happy players"))
-                    .add(playing("Discord Hacker v39.2"))
+                    .add(playing("Discord Hacker v43.0"))
                     .add(listening("Discordians"))
                     .add(streaming("donations", "https://patreon.com/kdragon"))
                     .add(streaming("You should totally donate!", "https://patreon.com/kdragon"))
