@@ -32,9 +32,9 @@ import static com.khronodragon.bluestone.util.Strings.format;
 public class MonitorCog extends Cog {
     private static final org.apache.logging.log4j.Logger logger = LogManager.getLogger(MonitorCog.class);
     private static final DateTimeFormatter TIME_FORMAT = DateTimeFormatter.ofPattern("EEE MMM dd hh:mm a");
-    private static final long monitorGuildId = 250780048943087618L;
-    private static final long consoleChannelId = 331144992003325955L;
-    private static final long guildEventChannelId = 331145024161054720L;
+    private static final long monitorGuildId = 137641084636364800L;
+    private static final long consoleChannelId = 725395260867477669L;
+    private static final long guildEventChannelId = private L;
     private LogMessageQueueSender queueSender;
     private Queue<Message> messageQueue;
 
